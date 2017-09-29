@@ -62,10 +62,5 @@ describe("Getty api call", function() {
         });
     }); 
     
-    
-    
-<<<<<<< HEAD
 }); 
-=======
-}); 
->>>>>>> master
+
